@@ -1,0 +1,17 @@
+# Go to your project folder
+cd /path/to/your/project
+
+# Initialize Git locally
+git init
+
+# Add files
+git add .
+
+# Commit changes
+git commit -m "Initial commit"
+
+# Add remote repository (replace username and repo-name)
+git remote add origin https://github.com/AsingwireMarvellous/my-first-repo.git
+
+# Push to GitHub
+git push -u origin master
